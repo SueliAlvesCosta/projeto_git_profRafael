@@ -1,5 +1,14 @@
 Olá mundo!
 
+<<<<<<< HEAD
 Eu gosto de pizza.
 
 Eu amo a natureza
+Eu sou A Sueli
+
+tenho 2 filhas 
+
+moro em Brasília
+=======
+
+>>>>>>> nova-branch
