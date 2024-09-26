@@ -19,11 +19,6 @@ git cd
 git cd..
 git clone
 
-<<<<<<< HEAD
-
-  
-   
-=======
 git branch nome-da-branch
 git branch -d nome-da-outra-branch
 git branch -b nome-da-branch
@@ -31,4 +26,3 @@ git checkout
 git merge
 git fetch
 git reset --hard
->>>>>>> nova-branch
